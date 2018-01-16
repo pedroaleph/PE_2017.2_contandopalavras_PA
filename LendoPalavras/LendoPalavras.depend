@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1516133877 source:c:\users\pedroaleph\downloads\aulas\pe\funcioneporfavor\listad_enc.c
+	"ListaD.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516133766 c:\users\pedroaleph\downloads\aulas\pe\funcioneporfavor\listad.h
+	<stdio.h>
+	<stdlib.h>
+
+1516134342 source:c:\users\pedroaleph\downloads\aulas\pe\funcioneporfavor\main.c
+	"ListaD.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516137751 source:c:\users\pedroaleph\downloads\aulas\pe\lendopalavras\listad_enc.c
+	"ListaD.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516136763 c:\users\pedroaleph\downloads\aulas\pe\lendopalavras\listad.h
+	<stdio.h>
+	<stdlib.h>
+
+1516137668 source:c:\users\pedroaleph\downloads\aulas\pe\lendopalavras\main.c
+	"ListaD.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
